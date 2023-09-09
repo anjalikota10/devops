@@ -10,5 +10,5 @@
 172.31.42.98
 
 [mywebserver:vars]
-myopenjdk8forubuntu = openjdk-8-jreee
-myopenjdk8forRedHat = java-1.8.0-openjdk
+myopenjdk8forubuntu= openjdk-8-jreeee
+myopenjdk8forRedHat= java-1.8.0-openjdk
