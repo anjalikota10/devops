@@ -6,9 +6,8 @@
 [mydbserver]
 172.31.42.95
 172.31.42.97
-172.31.42.102
 172.31.42.98
 
 [mywebserver:vars]
-myopenjdk8forubuntu= openjdk-8-jreeeeee
+myopenjdk8forubuntu= openjdk-8-jreeee
 myopenjdk8forRedHat= java-1.8.0-openjdk
