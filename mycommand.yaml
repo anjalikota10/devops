@@ -9,7 +9,7 @@
     - name: i want to display linux command on ansible node 
       debug: 
         msg: "{{myResultt}}"
-      
+      ignore_errors: yes      
 
     - name: i want to install git 
       apt: 
