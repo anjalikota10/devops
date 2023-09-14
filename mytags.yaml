@@ -17,5 +17,5 @@
      - name: i want to install git
        apt:
          name: git
-        state: present
-        tags: mygit
+         state: present
+         tags: mygit
