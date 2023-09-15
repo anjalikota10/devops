@@ -1,0 +1,9 @@
+---
+- hosts: 172.31.44.125
+  become: yes
+  tasks: 
+      - name: i want to create a file on ubuntu server
+        file: 
+           path: /home/anjali/mytestfile
+           state: touch
+    
