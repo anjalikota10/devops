@@ -1,0 +1,4 @@
+- name: i want to create a file in ubuntu server
+  file:
+    path: /home/anjali/mytestfile1
+    state: present
