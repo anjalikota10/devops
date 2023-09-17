@@ -4,6 +4,6 @@
   tasks: 
       - name: i want to create a file on ubuntu server
         file: 
-           path: /home/anjali/mytestfile1
-           state: touch
+            path: /home/anjali/mytestfile1
+            state: touch
     
